@@ -61,3 +61,9 @@ h1{
 .hidden{
     display: none;
 }
+
+@media (max-width : 500px) {
+   .game{
+    max-width: 85vmin;
+   }
+}
