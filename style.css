@@ -64,6 +64,6 @@ h1{
 
 @media (max-width : 500px) {
    .game{
-    max-width: 85vmin;
+    width: 85vmin;
    }
 }
